@@ -1,8 +1,8 @@
 # EnergySufficiencySouth
-# Using RAMP for generating load courves for remote communities in Bolivia
+# Using RAMP for generating load courves for sufficiency scenarios in five regions from developing countries
 
 ## Description
-This repository contains the source code, documentation, and resources for implementing a high-resolution multi-energy load profile generation model tailored for the unique energy consumption patterns observed in Bolivia.
+This repository contains the source code, documentation, and resources for implementing a high-resolution multi-energy load profile generation model tailored for sufficiency scenarios in five region in Bolivia, Kenya and Mozambique.
 
 ## Overview
 RAMP is an open-source software suite for the stochastic simulation of any user-driven energy demand time series based on few simple inputs.
